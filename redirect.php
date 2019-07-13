@@ -8,7 +8,7 @@ $url = "http://arenavision.cc/" .$ch;
 $options = array(
   'http'=>array(
     'method'=>"GET",
-    'header'=>"User-Agent: User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=https://tviplayer.iol.pt"
+    'header'=>"User-Agent: User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://arenavision.us"
   )
 );
 
